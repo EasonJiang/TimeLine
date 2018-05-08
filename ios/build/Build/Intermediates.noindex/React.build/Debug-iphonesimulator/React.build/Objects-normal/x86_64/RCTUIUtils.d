@@ -1,0 +1,3 @@
+dependencies: \
+  /Users/louischen/my-project/TimeLine/node_modules/react-native/React/UIUtils/RCTUIUtils.m \
+  /Users/louischen/my-project/TimeLine/node_modules/react-native/React/UIUtils/RCTUIUtils.h
